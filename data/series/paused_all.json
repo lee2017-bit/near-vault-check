@@ -1,0 +1,880 @@
+{
+ "args": {
+  "key": "ALL"
+ },
+ "collected_at": "2026-11-04T07:26:19Z",
+ "contract": "intents.near",
+ "method": "pa_is_paused",
+ "rows": [
+  {
+   "block_height": 217700000,
+   "paused": false,
+   "timestamp_ns": 1790638989547397999
+  },
+  {
+   "block_height": 217704000,
+   "paused": false,
+   "timestamp_ns": 1790641363607563547
+  },
+  {
+   "block_height": 217708000,
+   "paused": false,
+   "timestamp_ns": 1790643725810590904
+  },
+  {
+   "block_height": 217712000,
+   "paused": false,
+   "timestamp_ns": 1790646095326705677
+  },
+  {
+   "block_height": 217716000,
+   "paused": false,
+   "timestamp_ns": 1790648464600545998
+  },
+  {
+   "block_height": 217720000,
+   "paused": false,
+   "timestamp_ns": 1790650839430255922
+  },
+  {
+   "block_height": 217724000,
+   "paused": false,
+   "timestamp_ns": 1790653215519345539
+  },
+  {
+   "block_height": 217728000,
+   "paused": false,
+   "timestamp_ns": 1790655599911203072
+  },
+  {
+   "block_height": 217732000,
+   "paused": false,
+   "timestamp_ns": 1790657967379549996
+  },
+  {
+   "block_height": 217736000,
+   "paused": false,
+   "timestamp_ns": 1790660338939847497
+  },
+  {
+   "block_height": 217740000,
+   "paused": false,
+   "timestamp_ns": 1790662753099722071
+  },
+  {
+   "block_height": 217744000,
+   "paused": false,
+   "timestamp_ns": 1790665144629500832
+  },
+  {
+   "block_height": 217748000,
+   "paused": false,
+   "timestamp_ns": 1790667547345719723
+  },
+  {
+   "block_height": 217752000,
+   "paused": false,
+   "timestamp_ns": 1790669922333656148
+  },
+  {
+   "block_height": 217756000,
+   "paused": false,
+   "timestamp_ns": 1790672328916191631
+  },
+  {
+   "block_height": 217760000,
+   "paused": false,
+   "timestamp_ns": 1790674703487018730
+  },
+  {
+   "block_height": 217764000,
+   "paused": false,
+   "timestamp_ns": 1790677107424197875
+  },
+  {
+   "block_height": 217768000,
+   "paused": false,
+   "timestamp_ns": 1790679512506997805
+  },
+  {
+   "block_height": 217772000,
+   "paused": false,
+   "timestamp_ns": 1790681890698573657
+  },
+  {
+   "block_height": 217776000,
+   "paused": false,
+   "timestamp_ns": 1790684284343667104
+  },
+  {
+   "block_height": 217780000,
+   "paused": false,
+   "timestamp_ns": 1790686747862275697
+  },
+  {
+   "block_height": 217784000,
+   "paused": false,
+   "timestamp_ns": 1790689157958285179
+  },
+  {
+   "block_height": 217788000,
+   "paused": false,
+   "timestamp_ns": 1790691556435574227
+  },
+  {
+   "block_height": 217792000,
+   "paused": false,
+   "timestamp_ns": 1790693966270907807
+  },
+  {
+   "block_height": 217796000,
+   "paused": false,
+   "timestamp_ns": 1790696369972629978
+  },
+  {
+   "block_height": 217800000,
+   "paused": false,
+   "timestamp_ns": 1790698756140452228
+  },
+  {
+   "block_height": 217804000,
+   "paused": false,
+   "timestamp_ns": 1790701138147095362
+  },
+  {
+   "block_height": 217808000,
+   "paused": false,
+   "timestamp_ns": 1790703511208297759
+  },
+  {
+   "block_height": 217816000,
+   "paused": false,
+   "timestamp_ns": 1790708674833185318
+  },
+  {
+   "block_height": 217820000,
+   "paused": false,
+   "timestamp_ns": 1790711305548338232
+  },
+  {
+   "block_height": 217824000,
+   "paused": false,
+   "timestamp_ns": 1790713675428026622
+  },
+  {
+   "block_height": 217828000,
+   "paused": false,
+   "timestamp_ns": 1790716076903688581
+  },
+  {
+   "block_height": 217832000,
+   "paused": false,
+   "timestamp_ns": 1790718473775178364
+  },
+  {
+   "block_height": 217836000,
+   "paused": false,
+   "timestamp_ns": 1790720836439184524
+  },
+  {
+   "block_height": 217840000,
+   "paused": false,
+   "timestamp_ns": 1790723200434608281
+  },
+  {
+   "block_height": 217844000,
+   "paused": false,
+   "timestamp_ns": 1790725570672749824
+  },
+  {
+   "block_height": 217848000,
+   "paused": false,
+   "timestamp_ns": 1790727923703796594
+  },
+  {
+   "block_height": 217852000,
+   "paused": false,
+   "timestamp_ns": 1790730283381859264
+  },
+  {
+   "block_height": 217856000,
+   "paused": false,
+   "timestamp_ns": 1790732649862337482
+  },
+  {
+   "block_height": 217860000,
+   "paused": false,
+   "timestamp_ns": 1790735010689444073
+  },
+  {
+   "block_height": 217864000,
+   "paused": false,
+   "timestamp_ns": 1790737392868128287
+  },
+  {
+   "block_height": 217868000,
+   "paused": false,
+   "timestamp_ns": 1790739739361839568
+  },
+  {
+   "block_height": 217872000,
+   "paused": false,
+   "timestamp_ns": 1790742097106520635
+  },
+  {
+   "block_height": 217876000,
+   "paused": false,
+   "timestamp_ns": 1790744473767240613
+  },
+  {
+   "block_height": 217880000,
+   "paused": false,
+   "timestamp_ns": 1790746950046864487
+  },
+  {
+   "block_height": 217884000,
+   "paused": false,
+   "timestamp_ns": 1790749416690248755
+  },
+  {
+   "block_height": 217888000,
+   "paused": false,
+   "timestamp_ns": 1790752124883501930
+  },
+  {
+   "block_height": 217892000,
+   "paused": false,
+   "timestamp_ns": 1790754782007798617
+  },
+  {
+   "block_height": 217896000,
+   "paused": false,
+   "timestamp_ns": 1790757345868512332
+  },
+  {
+   "block_height": 217900000,
+   "paused": false,
+   "timestamp_ns": 1790759957991237068
+  },
+  {
+   "block_height": 217904000,
+   "paused": false,
+   "timestamp_ns": 1790762514045239891
+  },
+  {
+   "block_height": 217908000,
+   "paused": false,
+   "timestamp_ns": 1790765161085691437
+  },
+  {
+   "block_height": 217912000,
+   "paused": false,
+   "timestamp_ns": 1790767765104987078
+  },
+  {
+   "block_height": 217916000,
+   "paused": false,
+   "timestamp_ns": 1790770446087962211
+  },
+  {
+   "block_height": 217920000,
+   "paused": false,
+   "timestamp_ns": 1790772982895543885
+  },
+  {
+   "block_height": 217924000,
+   "paused": false,
+   "timestamp_ns": 1790775747909472108
+  },
+  {
+   "block_height": 217928000,
+   "paused": false,
+   "timestamp_ns": 1790778463436264030
+  },
+  {
+   "block_height": 217932000,
+   "paused": false,
+   "timestamp_ns": 1790781193914928326
+  },
+  {
+   "block_height": 217936000,
+   "paused": false,
+   "timestamp_ns": 1790783787552476928
+  },
+  {
+   "block_height": 217940000,
+   "paused": false,
+   "timestamp_ns": 1790786181212481570
+  },
+  {
+   "block_height": 217944000,
+   "paused": false,
+   "timestamp_ns": 1790788581311331595
+  },
+  {
+   "block_height": 217948000,
+   "paused": false,
+   "timestamp_ns": 1790790975694385950
+  },
+  {
+   "block_height": 217952000,
+   "paused": false,
+   "timestamp_ns": 1790793351621665970
+  },
+  {
+   "block_height": 217956000,
+   "paused": false,
+   "timestamp_ns": 1790795708556205708
+  },
+  {
+   "block_height": 217960000,
+   "paused": false,
+   "timestamp_ns": 1790798070706191621
+  },
+  {
+   "block_height": 217964000,
+   "paused": false,
+   "timestamp_ns": 1790800426478047603
+  },
+  {
+   "block_height": 217968000,
+   "paused": false,
+   "timestamp_ns": 1790802794219832527
+  },
+  {
+   "block_height": 217972000,
+   "paused": false,
+   "timestamp_ns": 1790805152673614020
+  },
+  {
+   "block_height": 217976000,
+   "paused": false,
+   "timestamp_ns": 1790807508636147964
+  },
+  {
+   "block_height": 217980000,
+   "paused": false,
+   "timestamp_ns": 1790809864700308836
+  },
+  {
+   "block_height": 217984000,
+   "paused": false,
+   "timestamp_ns": 1790812224386997504
+  },
+  {
+   "block_height": 217988000,
+   "paused": false,
+   "timestamp_ns": 1790814577170165049
+  },
+  {
+   "block_height": 217992000,
+   "paused": false,
+   "timestamp_ns": 1790816909626917240
+  },
+  {
+   "block_height": 217996000,
+   "paused": false,
+   "timestamp_ns": 1790819260774045568
+  },
+  {
+   "block_height": 218000000,
+   "paused": false,
+   "timestamp_ns": 1790821605803887457
+  },
+  {
+   "block_height": 218004000,
+   "paused": false,
+   "timestamp_ns": 1790823959968536164
+  },
+  {
+   "block_height": 218008000,
+   "paused": false,
+   "timestamp_ns": 1790826310716522496
+  },
+  {
+   "block_height": 218012000,
+   "paused": false,
+   "timestamp_ns": 1790828717880656205
+  },
+  {
+   "block_height": 218016000,
+   "paused": false,
+   "timestamp_ns": 1790831082642819612
+  },
+  {
+   "block_height": 218020000,
+   "paused": false,
+   "timestamp_ns": 1790833427414625645
+  },
+  {
+   "block_height": 218024000,
+   "paused": false,
+   "timestamp_ns": 1790835798921075822
+  },
+  {
+   "block_height": 218028000,
+   "paused": false,
+   "timestamp_ns": 1790838167248157893
+  },
+  {
+   "block_height": 218032000,
+   "paused": false,
+   "timestamp_ns": 1790840554782142833
+  },
+  {
+   "block_height": 218036000,
+   "paused": false,
+   "timestamp_ns": 1790842955193659781
+  },
+  {
+   "block_height": 218037000,
+   "paused": false,
+   "timestamp_ns": 1790843548111050908
+  },
+  {
+   "block_height": 218037062,
+   "paused": false,
+   "timestamp_ns": 1790843586371578229
+  },
+  {
+   "block_height": 218037069,
+   "paused": false,
+   "timestamp_ns": 1790843590250264762
+  },
+  {
+   "block_height": 218037073,
+   "paused": false,
+   "timestamp_ns": 1790843592990480938
+  },
+  {
+   "block_height": 218037075,
+   "paused": false,
+   "timestamp_ns": 1790843593852788686
+  },
+  {
+   "block_height": 218037076,
+   "paused": true,
+   "timestamp_ns": 1790843594470018922
+  },
+  {
+   "block_height": 218037077,
+   "paused": true,
+   "timestamp_ns": 1790843595175748432
+  },
+  {
+   "block_height": 218037093,
+   "paused": true,
+   "timestamp_ns": 1790843604763140177
+  },
+  {
+   "block_height": 218037125,
+   "paused": true,
+   "timestamp_ns": 1790843625597874573
+  },
+  {
+   "block_height": 218037250,
+   "paused": true,
+   "timestamp_ns": 1790843703144353803
+  },
+  {
+   "block_height": 218037500,
+   "paused": true,
+   "timestamp_ns": 1790843854333484078
+  },
+  {
+   "block_height": 218038000,
+   "paused": true,
+   "timestamp_ns": 1790844160461201053
+  },
+  {
+   "block_height": 218040000,
+   "paused": true,
+   "timestamp_ns": 1790845349270850748
+  },
+  {
+   "block_height": 218044000,
+   "paused": true,
+   "timestamp_ns": 1790847732077847370
+  },
+  {
+   "block_height": 218048000,
+   "paused": true,
+   "timestamp_ns": 1790850578045038648
+  },
+  {
+   "block_height": 218052000,
+   "paused": true,
+   "timestamp_ns": 1790853488516907588
+  },
+  {
+   "block_height": 218052125,
+   "paused": true,
+   "timestamp_ns": 1790853577828325155
+  },
+  {
+   "block_height": 218052187,
+   "paused": true,
+   "timestamp_ns": 1790853622984441410
+  },
+  {
+   "block_height": 218052202,
+   "paused": true,
+   "timestamp_ns": 1790853634745440185
+  },
+  {
+   "block_height": 218052210,
+   "paused": true,
+   "timestamp_ns": 1790853639930546422
+  },
+  {
+   "block_height": 218052214,
+   "paused": true,
+   "timestamp_ns": 1790853642721731926
+  },
+  {
+   "block_height": 218052216,
+   "paused": true,
+   "timestamp_ns": 1790853644504058217
+  },
+  {
+   "block_height": 218052217,
+   "paused": false,
+   "timestamp_ns": 1790853644859223899
+  },
+  {
+   "block_height": 218052218,
+   "paused": false,
+   "timestamp_ns": 1790853645426720040
+  },
+  {
+   "block_height": 218052250,
+   "paused": false,
+   "timestamp_ns": 1790853671893977821
+  },
+  {
+   "block_height": 218052500,
+   "paused": false,
+   "timestamp_ns": 1790853855692567871
+  },
+  {
+   "block_height": 218053000,
+   "paused": false,
+   "timestamp_ns": 1790854220924843518
+  },
+  {
+   "block_height": 218054000,
+   "paused": false,
+   "timestamp_ns": 1790854938930728134
+  },
+  {
+   "block_height": 218056000,
+   "paused": false,
+   "timestamp_ns": 1790856379820459819
+  },
+  {
+   "block_height": 218060000,
+   "paused": false,
+   "timestamp_ns": 1790859242398776409
+  },
+  {
+   "block_height": 218064000,
+   "paused": false,
+   "timestamp_ns": 1790861840434875459
+  },
+  {
+   "block_height": 218068000,
+   "paused": false,
+   "timestamp_ns": 1790864254648962858
+  },
+  {
+   "block_height": 218072000,
+   "paused": false,
+   "timestamp_ns": 1790866663156438028
+  },
+  {
+   "block_height": 218076000,
+   "paused": false,
+   "timestamp_ns": 1790869040021845298
+  },
+  {
+   "block_height": 218080000,
+   "paused": false,
+   "timestamp_ns": 1790871419172102091
+  },
+  {
+   "block_height": 218084000,
+   "paused": false,
+   "timestamp_ns": 1790873775454958741
+  },
+  {
+   "block_height": 218088000,
+   "paused": false,
+   "timestamp_ns": 1790876157563168853
+  },
+  {
+   "block_height": 218092000,
+   "paused": false,
+   "timestamp_ns": 1790878560019066176
+  },
+  {
+   "block_height": 218096000,
+   "paused": false,
+   "timestamp_ns": 1790880940196418673
+  },
+  {
+   "block_height": 218100000,
+   "paused": false,
+   "timestamp_ns": 1790883298881322283
+  },
+  {
+   "block_height": 218104000,
+   "paused": false,
+   "timestamp_ns": 1790885660157448541
+  },
+  {
+   "block_height": 218108000,
+   "paused": false,
+   "timestamp_ns": 1790888026267673959
+  },
+  {
+   "block_height": 218112000,
+   "paused": false,
+   "timestamp_ns": 1790890428684613480
+  },
+  {
+   "block_height": 218116000,
+   "paused": false,
+   "timestamp_ns": 1790892802096197425
+  },
+  {
+   "block_height": 218120000,
+   "paused": false,
+   "timestamp_ns": 1790895148857146510
+  },
+  {
+   "block_height": 218124000,
+   "paused": false,
+   "timestamp_ns": 1790897492522186587
+  },
+  {
+   "block_height": 218128000,
+   "paused": false,
+   "timestamp_ns": 1790899871540176564
+  },
+  {
+   "block_height": 218132000,
+   "paused": false,
+   "timestamp_ns": 1790902230011185439
+  },
+  {
+   "block_height": 218136000,
+   "paused": false,
+   "timestamp_ns": 1790904572200561635
+  },
+  {
+   "block_height": 218140000,
+   "paused": false,
+   "timestamp_ns": 1790906953775992947
+  },
+  {
+   "block_height": 218144000,
+   "paused": false,
+   "timestamp_ns": 1790909299680933997
+  },
+  {
+   "block_height": 218148000,
+   "paused": false,
+   "timestamp_ns": 1790911642566017438
+  },
+  {
+   "block_height": 218152000,
+   "paused": false,
+   "timestamp_ns": 1790913993064093616
+  },
+  {
+   "block_height": 218156000,
+   "paused": false,
+   "timestamp_ns": 1790916339391450283
+  },
+  {
+   "block_height": 218160000,
+   "paused": false,
+   "timestamp_ns": 1790918693194241066
+  },
+  {
+   "block_height": 218164000,
+   "paused": false,
+   "timestamp_ns": 1790921036976564250
+  },
+  {
+   "block_height": 218168000,
+   "paused": false,
+   "timestamp_ns": 1790923384111045839
+  },
+  {
+   "block_height": 218172000,
+   "paused": false,
+   "timestamp_ns": 1790925732130506922
+  },
+  {
+   "block_height": 218176000,
+   "paused": false,
+   "timestamp_ns": 1790928129168100324
+  },
+  {
+   "block_height": 218180000,
+   "paused": false,
+   "timestamp_ns": 1790930503569871064
+  },
+  {
+   "block_height": 218184000,
+   "paused": false,
+   "timestamp_ns": 1790932857932170900
+  },
+  {
+   "block_height": 218188000,
+   "paused": false,
+   "timestamp_ns": 1790935219331801212
+  },
+  {
+   "block_height": 218192000,
+   "paused": false,
+   "timestamp_ns": 1790937599733237086
+  },
+  {
+   "block_height": 218196000,
+   "paused": false,
+   "timestamp_ns": 1790939949128963160
+  },
+  {
+   "block_height": 218200000,
+   "paused": false,
+   "timestamp_ns": 1790942310115489285
+  },
+  {
+   "block_height": 218204000,
+   "paused": false,
+   "timestamp_ns": 1790944673820613435
+  },
+  {
+   "block_height": 218208000,
+   "paused": false,
+   "timestamp_ns": 1790947037675868735
+  },
+  {
+   "block_height": 218212000,
+   "paused": false,
+   "timestamp_ns": 1790949418443105832
+  },
+  {
+   "block_height": 218216000,
+   "paused": false,
+   "timestamp_ns": 1790951834719160456
+  },
+  {
+   "block_height": 218220000,
+   "paused": false,
+   "timestamp_ns": 1790954216412131133
+  },
+  {
+   "block_height": 218224000,
+   "paused": false,
+   "timestamp_ns": 1790956572793139247
+  },
+  {
+   "block_height": 218228000,
+   "paused": false,
+   "timestamp_ns": 1790958925617351652
+  },
+  {
+   "block_height": 218232000,
+   "paused": false,
+   "timestamp_ns": 1790961290200285172
+  },
+  {
+   "block_height": 218236000,
+   "paused": false,
+   "timestamp_ns": 1790963628910475683
+  },
+  {
+   "block_height": 218240000,
+   "paused": false,
+   "timestamp_ns": 1790965986935754338
+  },
+  {
+   "block_height": 218244000,
+   "paused": false,
+   "timestamp_ns": 1790968334454309342
+  },
+  {
+   "block_height": 218248000,
+   "paused": false,
+   "timestamp_ns": 1790970686522940741
+  },
+  {
+   "block_height": 218252000,
+   "paused": false,
+   "timestamp_ns": 1790973033694210817
+  },
+  {
+   "block_height": 218256000,
+   "paused": false,
+   "timestamp_ns": 1790975393600040759
+  },
+  {
+   "block_height": 218260000,
+   "paused": false,
+   "timestamp_ns": 1790977735777210362
+  },
+  {
+   "block_height": 218264000,
+   "paused": false,
+   "timestamp_ns": 1790980084686924364
+  },
+  {
+   "block_height": 218268000,
+   "paused": false,
+   "timestamp_ns": 1790982429855083351
+  },
+  {
+   "block_height": 218272000,
+   "paused": false,
+   "timestamp_ns": 1790984779459121492
+  },
+  {
+   "block_height": 218276000,
+   "paused": false,
+   "timestamp_ns": 1790987124645620336
+  },
+  {
+   "block_height": 218280000,
+   "paused": false,
+   "timestamp_ns": 1790989471170217852
+  },
+  {
+   "block_height": 218284000,
+   "paused": false,
+   "timestamp_ns": 1790991827214683309
+  },
+  {
+   "block_height": 218288000,
+   "paused": false,
+   "timestamp_ns": 1790994173367072654
+  },
+  {
+   "block_height": 218292000,
+   "paused": false,
+   "timestamp_ns": 1790996503865572060
+  },
+  {
+   "block_height": 218296000,
+   "paused": false,
+   "timestamp_ns": 1790998837063538153
+  },
+  {
+   "block_height": 218300000,
+   "paused": false,
+   "timestamp_ns": 1791001175558512905
+  }
+ ]
+}

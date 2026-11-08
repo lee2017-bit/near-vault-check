@@ -1,0 +1,31 @@
+{
+ "title": "NEAR Intents October 1 exploit (deposit-notification bug, $3.8M ghost funds)",
+ "token": "nep245:v2_1.omni.hot.tg:56_2CMMyVTGZkeyNZTSvS5sarzfir6g",
+ "token_label": "USDT (BNB Chain) via HOT Omni Bridge, 18 decimals",
+ "sources": [
+  {
+   "label": "Postmortem: NEAR Intents October 1 Exploit (Alex Shevchenko, X article)",
+   "url": "https://x.com/AlexAuroraDev/status/2111124226962870770",
+   "published": "2026-10-16"
+  },
+  {
+   "label": "Easily Explaining the NEAR Intents Exploit: $3.8M in Ghost Funds, 100% Recovered (The Coding, Substack)",
+   "url": "https://thecoding.substack.com/p/near-intents-ghost-fund-postmortem",
+   "published": "2026-10-16"
+  }
+ ],
+ "events_utc": [
+  {"key": "withdrawals_start", "time": "2026-09-29T16:14:00Z", "label": "Attacker withdrawals begin (post-mortem: 29 Sep 16:14 - 1 Oct 05:54)"},
+  {"key": "withdrawals_end", "time": "2026-10-01T05:54:00Z", "label": "Last attacker withdrawal"},
+  {"key": "identified", "time": "2026-10-01T08:04:00Z", "label": "Problems in withdrawals identified"},
+  {"key": "paused", "time": "2026-10-01T08:33:00Z", "label": "NEAR Intents contract paused"},
+  {"key": "unpaused", "time": "2026-10-01T11:20:00Z", "label": "Contract unpaused (affected routes stay paused)"},
+  {"key": "fix_deployed", "time": "2026-10-02T20:31:00Z", "label": "Fix deployed on mainnet"},
+  {"key": "deposits_unpaused", "time": "2026-10-02T20:38:00Z", "label": "Contract side of deposits unpaused"}
+ ],
+ "quotes": {
+  "detection_gap": "The internal systems of NEAR Intents had been monitoring the discrepancies of the origin chain and total NEAR-side token balances, but they did not monitor the discrepancies of the total balances of all users on NEAR Intents and the token balance of the Intents contract.",
+  "fix": "We have introduced the monitoring of the total balance of NEAR Intents users vs. the balance of the contract. In case the invariant fails, the contract is paused automatically.",
+  "outcome": "The attacker returned the full $3.8 million in funds and all affected users were made whole."
+ }
+}

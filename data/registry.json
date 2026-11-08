@@ -1,0 +1,64 @@
+{
+ "about": "Token ids whose ledger exceeds the vault for a reason other than the October incident. They show as 'standing' (not growing) or 'drift' instead of ALARM because the alarm is baseline-aware. Reviewed by hand on 2026-11-04 from scans at blocks 217,500,000 (2026-09-27) and the latest block.",
+ "classes": {
+  "hot_near_native": "HOT Omni ids with chain prefix 1010 (NEAR). The part after the underscore base58-decodes to a NEAR account, so the id is a HOT representation of a NEAR-native token. v2_1.omni.hot.tg reports no balance for intents.near on these ids, so their vault cannot be read with this method; the backing would have to be checked at the bridge level.",
+  "test_or_staging": "Test or staging tokens (names contain 'test' or 'stg'); not user funds.",
+  "collectible_mt": "Collectible-style multi tokens on mt.nfts.tg with whole-unit amounts (1 or a few units).",
+  "dust": "A gap that is negligible relative to the ledger (below 1e-30 of it)."
+ },
+ "tokens": {
+  "nep245:v2_1.omni.hot.tg:1010_2NXj8Xrq9ER5t5VcNJVUKx4YKSem": {
+   "class": "hot_near_native",
+   "decoded": "blackdragon.tkn.near"
+  },
+  "nep245:v2_1.omni.hot.tg:1010_2ViAi8M428y9p": {
+   "class": "hot_near_native",
+   "decoded": "usmeme.tg"
+  },
+  "nep245:v2_1.omni.hot.tg:1010_2XBdba3hbJ9RT": {
+   "class": "hot_near_native",
+   "decoded": "wrap.near"
+  },
+  "nep245:v2_1.omni.hot.tg:1010_CKvgNTg": {
+   "class": "hot_near_native",
+   "decoded": "dd.tg"
+  },
+  "nep245:v2_1.omni.hot.tg:1010_YstfWsCY5nxES8LjochRc8ne1dRph7": {
+   "class": "hot_near_native",
+   "decoded": "usdt.tether-token.near"
+  },
+  "nep245:v2_1.omni.hot.tg:1010_duPqVC892hgKKby5LuX": {
+   "class": "hot_near_native",
+   "decoded": "darai.tkn.near"
+  },
+  "nep245:v2_1.omni.hot.tg:1010_z56rNhxMS3ZkYwS4MgVuUWVZzATa1uUHqgRtuZ9KMDmyExvmUdK": {
+   "class": "hot_near_native",
+   "decoded": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1 (native USDC on NEAR)"
+  },
+  "nep141:nvdastest.optimal-bone.near": {
+   "class": "test_or_staging",
+   "note": "token name 'NVDAstest'"
+  },
+  "nep245:clearing.stg.baseload.near:stg1.N.8be9f1a52bb015cd.ancm+1.000002.cm2": {
+   "class": "test_or_staging",
+   "note": "staging clearing contract"
+  },
+  "nep245:clearing.stg.baseload.near:stg1.N.8be9f1a52bb015cd.ancm+1.000004.cm2": {
+   "class": "test_or_staging",
+   "note": "staging clearing contract"
+  },
+  "nep245:mt.nfts.tg:5": {
+   "class": "collectible_mt"
+  },
+  "nep245:mt.nfts.tg:ping3.nfts.tg": {
+   "class": "collectible_mt"
+  },
+  "nep245:mt.nfts.tg:data-babies.nfts.tg": {
+   "class": "collectible_mt"
+  },
+  "nep245:v2_1.omni.hot.tg:4444119_EnfNtEaQwr1AZTRgmH3dEhqGy1rqBWAU8gbAP1eKhErvrNk3": {
+   "class": "dust",
+   "note": "2,231 raw units on a ledger of ~9.7e37 raw units"
+  }
+ }
+}
